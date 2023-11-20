@@ -1,3 +1,7 @@
+# Download Intellij Portable
+
+https://github.com/portapps/intellij-idea-community-portable/releases/tag/2023.1.3-54
+
 # install the fonts from the repository (git link)
 
 https://github.com/suracefederico/Settings.git
